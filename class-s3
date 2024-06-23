@@ -1,0 +1,9 @@
+AWS Storages
+=======================================================
+1) S3=> Simple Storage Service
+2) EBS=> Elastic block STorage
+3) EFS=> Elastic File Storage
+========================================================
+EBS=> Elastic block STorage
+Ec2- ap-south-1a- same zone you have create volume
+
